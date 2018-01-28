@@ -10,14 +10,14 @@ the words that html elements derives from
 
 ## Document metadata
 
-| 元素    | 单词  | 释义 | 描述 |
-| ------- | ----- | ---- | ---- |
-| `head`  | head  |      |      |
-| `title` | title |      |      |
-| `base`  | cite  |      |      |
-| `link`  | link  |      |      |
-| `meta`  | meta  |      |      |
-| `style` | style |      |      |
+| 元素    | 单词  | 释义 | 描述                                       |
+| ------- | ----- | ---- | ------------------------------------------ |
+| `head`  | head  |      | a collection of metadata for the Document. |
+| `title` | title |      | the document’s title or name               |
+| `base`  | cite  |      |                                            |
+| `link`  | link  |      |                                            |
+| `meta`  | meta  |      | document-level metadata                    |
+| `style` | style |      | not represent content for the user.        |
 
 ## Sections
 
@@ -140,6 +140,10 @@ the words that html elements derives from
 | `meter`    |      |      |      |
 | `fieldset` |      |      |      |
 | `legend`   |      |      |      |
+
+## other
+
+* ARIA: Accessible Rich Internet Applications
 
 ### html4,5 语义区别注释
 
